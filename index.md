@@ -1,3 +1,8 @@
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+
 # This is an H1 Header
 ## This is an H2 Header
 ### This is an H3 Header
